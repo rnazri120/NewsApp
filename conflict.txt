@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is desktop
+=======
+this is github
+>>>>>>> 7ddd3d2f2caa1b4eaba8c55ff5b5205f941cd3e8
+conflict resolved
